@@ -1,0 +1,6 @@
+# Media
+*.mp4
+
+# Directories
+/__pycache__
+/fitAI
