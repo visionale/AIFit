@@ -15,7 +15,7 @@ We will be adding more exercises and different view angles, along with an automa
 # Installation
 Clone the repo: git clone https://github.com/visionale/AIFit.git
 
-Create virtual environment:  python<version> -m venv <virtual-environment-name>
+Create virtual environment:  python<version> -m venv virtual-environment-name
 
 
 Install packages: pip install -r requirements.txt
